@@ -8,7 +8,7 @@ Untuk mencegah hal ini semakin parah, manajer departemen HR ingin membuat busine
 
 ### Permasalahan Bisnis
 
-Tuliskan seluruh permasalahan bisnis yang akan diselesaikan.
+Attrition rate yang tinggi, lebih dari 10% dan belum diketahui faktor penyebabnya.
 
 ### Cakupan Proyek
 
